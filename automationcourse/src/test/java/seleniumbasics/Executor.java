@@ -23,6 +23,7 @@ public class Executor extends Base{
 		// TODO Auto-generated method stub
 		Executor executor = new Executor();
 		executor.initializebrowser();
+		executor.verifyJavascriptExecutor();
 
 	}
 
